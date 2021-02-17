@@ -1,0 +1,14 @@
+h1{
+color:navy;
+font-size: 40;
+margin-top: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.body_background{
+background-image: url("BG.jpg");
+background-size: cover;
+background-position: center;
+}
+
+#canvas1{
+    border: 6px solid blueviolet;}
